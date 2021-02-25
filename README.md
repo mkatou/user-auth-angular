@@ -2,7 +2,7 @@
 
 ## Pour exécuter l'application
 
-npm start
+> npm start
 
         l'application se lance automatiquement sur le port 8080
 
